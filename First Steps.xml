@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Diplomatic Transcription of London, British Library, Cotton Vitellius D.iii</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>This edition is based on manual transcription.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>London</settlement>
+                  <institution>British Library</institution>
+                  <collection>Cotton</collection>
+                  <idno>Vitellius D.iii</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text n="Floris and Blauncheflour">
+     <group n="f. 6r">
+        <text>
+           <body>
+              <lg n="column a">
+                 <l n="1"><damage><gap/></damage>ſo <w corresp="dear">dere</w></l>
+                 <l n="2"><damage><gap/></damage>wiþ þoute wene</l>
+                 <l n="3"></l>
+                 <l n="4"></l>
+                 <l n="5"></l>
+                 <l n="6"></l>
+                 <l n="7"></l>
+                 <l n="8"></l>
+                 <l n="9"></l>
+                 <l n="10"></l>
+                 <l n="11"></l>
+                 <l n="12"></l>
+                 <l n="13"></l>
+                 <l n="14"></l>
+                 <l n="15"></l>
+                 <l n="16"></l>
+                 <l n="17"></l>
+                 <l n="18"></l>
+                 <l n="19"></l>
+                 <l n="20"></l>
+                 <l n="21"></l>
+                 <l n="22"></l>
+                 <l n="23"></l>
+                 <l n="24"></l>
+                 <l n="25"></l>
+                 <l n="26"></l>
+                 <l n="27"></l>
+                 <l n="28"></l>
+                 <l n="29"></l>
+                 <l n="30"></l>
+                 <l n="31"></l>
+                 <l n="32"></l>
+                 <l n="33"></l>
+                 <l n="34"></l>
+                 <l n="35"></l>
+                 <l n="36"></l>
+                 <l n="37"></l>
+                 <l n="38"></l>
+              </lg>
+              <lg n="column b">
+                 <l n="1">Þine <w corresp="deceit">gabbinge </w><w corresp="does">deþ</w> me <w corresp="sorrow">wo</w></l>
+                 <l n="2"><w corresp="Tell">Tel</w> me war my <w corresp="lover">lēmon</w> <w corresp="is">beo</w></l>
+                 <l n="3"></l>
+                 <l n="4"></l>
+                 <l n="5"></l>
+                 <l n="6"></l>
+                 <l n="7"></l>
+                 <l n="8"></l>
+                 <l n="9"></l>
+                 <l n="10"></l>
+                 <l n="11"></l>
+                 <l n="12"></l>
+                 <l n="13"></l>
+                 <l n="14"></l>
+                 <l n="15"></l>
+                 <l n="16"></l>
+                 <l n="17"></l>
+                 <l n="18"></l>
+                 <l n="19"></l>
+                 <l n="20"></l>
+                 <l n="21"></l>
+                 <l n="22"></l>
+                 <l n="23"></l>
+                 <l n="24"></l>
+                 <l n="25"></l>
+                 <l n="26"></l>
+                 <l n="27"></l>
+                 <l n="28"></l>
+                 <l n="29"></l>
+                 <l n="30"></l>
+                 <l n="31"></l>
+                 <l n="32"></l>
+                 <l n="33"></l>
+                 <l n="34"></l>
+                 <l n="35"></l>
+                 <l n="36"></l>
+                 <l n="37"></l>
+                 <l n="38"></l>
+              </lg>
+           </body>
+        </text>
+     </group>
+  </text>
+</TEI>
