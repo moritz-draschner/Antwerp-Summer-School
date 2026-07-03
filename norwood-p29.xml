@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Adventure of the Norwood Builder</title>
+            <author>Arthur Conan Doyle</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5285" lry="7115" xml:id="facs_1">
+         <graphic url="0029_029_13r.jpeg" width="5285px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=DWEWZDPGVSXKAUHDVKEQWGZO" width="5285px" height="7115px"/>
+         <zone points="4518,378 4826,378 4826,636 4518,636" rendition="TextRegion" xml:id="facs_1_r">
+            <zone points="4597,312 4719,312 4719,587 4597,587" rendition="Line" xml:id="facs_1_l"/>
+         </zone>
+         <zone points="42,1016 5181,1016 5181,6930 42,6930" rendition="TextRegion" xml:id="facs_1_tr_1">
+            <zone points="122,1051 4927,1051 4927,1473 122,1473" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+            <zone points="159,1418 813,1418 813,1687 159,1687" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+            <zone points="923,1638 4566,1638 4566,2035 923,2035" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+            <zone points="899,2011 4639,2011 4639,2390 899,2390" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+            <zone points="947,2317 2494,2317 2494,2610 947,2610" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+            <zone points="954,2549 5018,2549 5018,2952 954,2952" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+            <zone points="92,2824 562,2824 562,3001 92,3001" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+            <zone points="159,2934 2145,2934 2145,3276 159,3276" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+            <zone points="941,3136 5012,3136 5012,3576 941,3576" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+            <zone points="3460,3527 3716,3527 3716,3661 3460,3661" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+            <zone points="165,3478 5067,3478 5067,3857 165,3857" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+            <zone points="954,3778 4853,3778 4853,4156 954,4156" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+            <zone points="159,4095 4902,4095 4902,4474 159,4474" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+            <zone points="177,4419 4456,4419 4456,4786 177,4786" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+            <zone points="153,4652 4584,4652 4584,5049 153,5049" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+            <zone points="972,4957 4957,4957 4957,5440 972,5440" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+            <zone points="165,5238 1846,5238 1846,5624 165,5624" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
+            <zone points="960,5599 4749,5599 4749,5941 960,5941" rendition="Line" xml:id="facs_1_tr_1_tl_18"/>
+            <zone points="128,5813 507,5813 507,6015 128,6015" rendition="Line" xml:id="facs_1_tr_1_tl_19"/>
+            <zone points="153,5837 2916,5837 2916,6223 153,6223" rendition="Line" xml:id="facs_1_tr_1_tl_20"/>
+            <zone points="947,6161 4847,6161 4847,6577 947,6577" rendition="Line" xml:id="facs_1_tr_1_tl_21"/>
+            <zone points="177,6412 5043,6412 5043,6870 177,6870" rendition="Line" xml:id="facs_1_tr_1_tl_22"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div><pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <ab facs="#facs_1_r" type="">
+               <lb facs="#facs_1_l" n="N001"/>11
+            </ab>
+            <ab facs="#facs_1_tr_1" type="">
+            <p>
+               <lb facs="#facs_1_tr_1_tl_1" n="N001"/>shoulder I caught a glimpse of one or two uniformed policemen
+               <lb facs="#facs_1_tr_1_tl_2" n="N002"/>outside.
+            </p>
+            <p>  
+               <lb facs="#facs_1_tr_1_tl_3" n="N003"/>"<rs type="person">Mr. John Hector McFarlane</rs>?" said <rs type="person">Lestrade</rs>.
+            </p>
+            <p>
+               <lb facs="#facs_1_tr_1_tl_4" n="N004"/>Our unfortunate <rs type="person">Client</rs> rose with a ghastly face.
+            </p>
+            <p>
+               <lb facs="#facs_1_tr_1_tl_5" n="N005"/><del>"[unclear]" said he.</del>
+            </p>
+            <p>
+               <lb facs="#facs_1_tr_1_tl_6" n="N006"/>"<del>[unclear]</del> I arrest you for the wilful munder of <rs type="person">Mr. Jonas</rs>
+               <lb facs="#facs_1_tr_1_tl_7" n="N007"/><del><unclear>Coper</unclear></del> Oldacre of Lower Norwood"
+            </p>
+            <p>
+               <lb facs="#facs_1_tr_1_tl_9" n="N009"/><rs type="person">McFarlane</rs> turned to us with a gesture of despair,
+               <lb facs="#facs_1_tr_1_tl_11" n="N011"/>and sank into his chair once more like <del>a man</del> one who is crushed.
+            </p>
+            <p>
+               <lb facs="#facs_1_tr_1_tl_12" n="N012"/>"One moment, <rs type="person">Lestrade</rs>" said <rs type="person">Holmes</rs> "Half an
+               <lb facs="#facs_1_tr_1_tl_13" n="N013"/>hour more or less can make no difference to you, and <del>this</del> the
+               <lb facs="#facs_1_tr_1_tl_14" n="N014"/><rs type="person">gentleman</rs> was about to give us an account of this very
+               <lb facs="#facs_1_tr_1_tl_15" n="N015"/>interesting affair which might aid us in clearing it up"
+            </p>
+            <p>
+               <lb facs="#facs_1_tr_1_tl_16" n="N016"/>"I think there will be no difficulty in clearing it up"
+               <lb facs="#facs_1_tr_1_tl_17" n="N017"/>said <rs type="person" wikiData="Q1067723">Lestrade</rs> grimly.
+            </p>
+            <p>
+               <lb facs="#facs_1_tr_1_tl_18" n="N018"/>"None the less with your permission I should be
+               <lb facs="#facs_1_tr_1_tl_19" n="N019"/><del>most</del> much interested to hear his account"
+            </p>
+            <p>   
+               <lb facs="#facs_1_tr_1_tl_21" n="N021"/>"Well, <rs type="person" wikiData="Q4653">Mr. Holmes</rs>, it is difficult for me to refuse
+               <lb facs="#facs_1_tr_1_tl_22" n="N022"/>you anything for you have been of use to the force once or twice
+            </p>
+            </ab></div>
+      </body>
+   </text>
+</TEI>
