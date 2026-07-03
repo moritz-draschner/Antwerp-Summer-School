@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Adventure of the Norwood Builder</title>
+            <author>Arthur Conan Doyle</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5533" lry="7115" xml:id="facs_1">
+         <graphic url="0100_100_48v.jpeg" width="5533px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=QLTFICBAGNVOCEIHXQCRROAK" width="5533px" height="7115px"/>
+         <zone points="4735,278 5127,278 5127,638 4735,638" rendition="TextRegion" xml:id="facs_1_r">
+            <zone points="4777,285 4987,285 4987,674 4777,674" rendition="Line" xml:id="facs_1_l"/>
+         </zone>
+         <zone points="94,854 5506,854 5506,6722 94,6722" rendition="TextRegion" xml:id="facs_1_tr_1">
+            <zone points="322,903 4678,903 4678,1380 322,1380" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+            <zone points="1108,1219 5092,1219 5092,1590 1108,1590" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+            <zone points="322,1528 5284,1528 5284,1906 322,1906" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+            <zone points="173,1807 4882,1807 4882,2178 173,2178" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+            <zone points="377,1980 5210,1980 5210,2277 377,2277" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+            <zone points="1213,2172 5074,2172 5074,2487 1213,2487" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+            <zone points="297,2438 5179,2438 5179,2822 297,2822" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+            <zone points="309,2735 5179,2735 5179,3137 309,3137" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+            <zone points="340,3032 5167,3032 5167,3403 340,3403" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+            <zone points="371,3335 5259,3335 5259,3731 371,3731" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+            <zone points="396,3614 5371,3614 5371,3991 396,3991" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+            <zone points="408,3941 5290,3941 5290,4306 408,4306" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+            <zone points="390,4220 5210,4220 5210,4634 390,4634" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+            <zone points="415,4517 5037,4517 5037,4900 415,4900" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+            <zone points="439,4795 5309,4795 5309,5216 439,5216" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+            <zone points="464,5117 5129,5117 5129,5544 464,5544" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
+            <zone points="464,5445 4882,5445 4882,5816 464,5816" rendition="Line" xml:id="facs_1_tr_1_tl_18"/>
+            <zone points="415,5723 5086,5723 5086,6095 415,6095" rendition="Line" xml:id="facs_1_tr_1_tl_19"/>
+            <zone points="470,5977 5198,5977 5198,6423 470,6423" rendition="Line" xml:id="facs_1_tr_1_tl_21"/>
+            <zone points="495,6311 5204,6311 5204,6726 495,6726" rendition="Line" xml:id="facs_1_tr_1_tl_22"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div><pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <ab facs="#facs_1_r" type="">
+               <lb facs="#facs_1_l" n="N001"/>47
+            </ab>
+            <ab facs="#facs_1_tr_1" type="">
+            <p>
+               <lb facs="#facs_1_tr_1_tl_2" n="N001"/>wager that you find the seal with the thumb mark upon it"
+            </p>
+            <p>   
+               <lb facs="#facs_1_tr_1_tl_3" n="N002"/>"Wonderful!" said Lestrade "Wonderful? It's all as
+               <lb facs="#facs_1_tr_1_tl_4" n="N003"/>clear as crystal as you put it. But what is the object of <del>all</del> this
+               <lb facs="#facs_1_tr_1_tl_5" n="N004"/>deep deception, Mr. Holmes?" It was amusing to me to see how the Detective's
+               <lb facs="#facs_1_tr_1_tl_6" n="N005"/><add>overbearing manner had changed suddenly to that of a child asking questions of its teacher.</add>
+            </p>
+            <p>
+               <lb facs="#facs_1_tr_1_tl_7" n="N006"/>"Well, I don't think that is very hard to explain. A
+               <lb facs="#facs_1_tr_1_tl_8" n="N007"/>very deep malicious vindictive person is the gentleman who is now
+               <lb facs="#facs_1_tr_1_tl_9" n="N008"/>awaiting us downstairs. You know that he was once refused by
+               <lb facs="#facs_1_tr_1_tl_10" n="N009"/>McFarlane's mother? You don't! I told you that you should go
+               <lb facs="#facs_1_tr_1_tl_11" n="N010"/>to Blackheath first and Norwood afterwards. Well this injury,
+               <lb facs="#facs_1_tr_1_tl_12" n="N011"/>as he would consider it, has rankled in his wicked scheming brain,
+               <lb facs="#facs_1_tr_1_tl_13" n="N012"/>and all his life he has longed for vengeance but never seen his
+               <lb facs="#facs_1_tr_1_tl_14" n="N013"/>chance. <del>After </del>During the last year or Two things have gone
+               <lb facs="#facs_1_tr_1_tl_15" n="N014"/>against him – secret speculation, I think – and he finds
+               <lb facs="#facs_1_tr_1_tl_16" n="N015"/>himself in a bad way. He determines to swindle his creditors
+               <lb facs="#facs_1_tr_1_tl_17" n="N016"/>and for this purpose he pays large cheques to a certain Mr.
+               <lb facs="#facs_1_tr_1_tl_18" n="N017"/>Cornelius, who is, as I imagine, himself under another
+               <lb facs="#facs_1_tr_1_tl_19" n="N018"/>name. I have not traced these cheques yet, but I have no
+               <lb facs="#facs_1_tr_1_tl_21" n="N019"/>doubt that they were <del>cashed</del> <add>banked under that name </add>at some provincial town where
+               <lb facs="#facs_1_tr_1_tl_22" n="N020"/>Oldacre from time to time led a double existence. He intended
+            </p>
+            </ab></div>
+      </body>
+   </text>
+</TEI>

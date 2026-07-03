@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">[untitled]</title>
+            <author>Anonymous</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>British Library Londond</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p><idno>Cotton Vitellius D.iii</idno></p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="3386" lry="4608" xml:id="facs_1">
+         <graphic url="0001_6r.JPG" width="3386px" height="4608px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=CZYATXEURCWBOAAVLNTPDBAX" width="3386px" height="4608px"/>
+         <zone points="209,299 1438,299 1438,4367 209,4367" rendition="TextRegion" xml:id="facs_1_r_7">
+            <zone points="746,525 1094,525 1094,563 746,563" rendition="Line" xml:id="facs_1_l"/>
+            <zone points="535,604 1076,604 1076,656 535,656" rendition="Line" xml:id="facs_1_l_22"/>
+            <zone points="524,689 1144,689 1144,745 524,745" rendition="Line" xml:id="facs_1_l_33"/>
+            <zone points="477,790 1223,790 1223,839 477,839" rendition="Line" xml:id="facs_1_l_49"/>
+            <zone points="446,884 1146,884 1146,930 446,930" rendition="Line" xml:id="facs_1_l_71"/>
+            <zone points="475,977 1254,977 1254,1025 475,1025" rendition="Line" xml:id="facs_1_l_93"/>
+            <zone points="490,1068 1221,1068 1221,1104 490,1104" rendition="Line" xml:id="facs_1_l_104"/>
+            <zone points="535,1145 1029,1145 1029,1181 535,1181" rendition="Line" xml:id="facs_1_l_115"/>
+            <zone points="553,1240 1118,1240 1118,1276 553,1276" rendition="Line" xml:id="facs_1_l_131"/>
+            <zone points="575,1333 1294,1333 1294,1371 575,1371" rendition="Line" xml:id="facs_1_l_147"/>
+            <zone points="571,1408 1238,1408 1238,1462 571,1462" rendition="Line" xml:id="facs_1_l_163"/>
+            <zone points="572,1503 1111,1503 1111,1545 572,1545" rendition="Line" xml:id="facs_1_l_179"/>
+            <zone points="575,1596 1146,1596 1146,1631 575,1631" rendition="Line" xml:id="facs_1_l_195"/>
+            <zone points="575,1673 1198,1673 1198,1714 575,1714" rendition="Line" xml:id="facs_1_l_211"/>
+            <zone points="582,1757 1062,1757 1062,1809 582,1809" rendition="Line" xml:id="facs_1_l_227"/>
+            <zone points="585,1854 983,1854 983,1896 585,1896" rendition="Line" xml:id="facs_1_l_243"/>
+            <zone points="606,1931 1084,1931 1084,1991 606,1991" rendition="Line" xml:id="facs_1_l_259"/>
+            <zone points="628,2032 1053,2032 1053,2076 628,2076" rendition="Line" xml:id="facs_1_l_275"/>
+            <zone points="631,2119 1132,2119 1132,2186 631,2186" rendition="Line" xml:id="facs_1_l_291"/>
+            <zone points="664,2230 1118,2230 1118,2281 664,2281" rendition="Line" xml:id="facs_1_l_307"/>
+            <zone points="661,2317 1094,2317 1094,2364 661,2364" rendition="Line" xml:id="facs_1_l_20"/>
+            <zone points="658,2401 1136,2401 1136,2435 658,2435" rendition="Line" xml:id="facs_1_l_36"/>
+            <zone points="633,2601 1069,2601 1069,2637 633,2637" rendition="Line" xml:id="facs_1_l_318"/>
+            <zone points="593,2680 1267,2680 1267,2741 593,2741" rendition="Line" xml:id="facs_1_l_334"/>
+            <zone points="565,2765 1292,2765 1292,2834 565,2834" rendition="Line" xml:id="facs_1_l_350"/>
+            <zone points="488,2854 1150,2854 1150,2925 488,2925" rendition="Line" xml:id="facs_1_l_372"/>
+            <zone points="448,2964 1185,2964 1185,3012 448,3012" rendition="Line" xml:id="facs_1_l_388"/>
+            <zone points="410,3053 1327,3053 1327,3101 410,3101" rendition="Line" xml:id="facs_1_l_410"/>
+            <zone points="369,3163 1303,3163 1303,3206 369,3206" rendition="Line" xml:id="facs_1_l_426"/>
+            <zone points="362,3264 1211,3264 1211,3302 362,3302" rendition="Line" xml:id="facs_1_l_442"/>
+            <zone points="371,3355 1247,3355 1247,3395 371,3395" rendition="Line" xml:id="facs_1_l_464"/>
+            <zone points="361,3448 1281,3448 1281,3493 361,3493" rendition="Line" xml:id="facs_1_l_486"/>
+            <zone points="371,3543 1140,3543 1140,3588 371,3588" rendition="Line" xml:id="facs_1_l_502"/>
+            <zone points="431,3635 1012,3635 1012,3684 431,3684" rendition="Line" xml:id="facs_1_l_518"/>
+            <zone points="465,3729 1250,3729 1250,3776 465,3776" rendition="Line" xml:id="facs_1_l_540"/>
+            <zone points="520,3827 1015,3827 1015,3867 520,3867" rendition="Line" xml:id="facs_1_l_556"/>
+            <zone points="582,3906 1023,3906 1023,3949 582,3949" rendition="Line" xml:id="facs_1_l_572"/>
+            <zone points="638,3985 1040,3985 1040,4028 638,4028" rendition="Line" xml:id="facs_1_l_56"/>
+         </zone>
+         <zone points="1438,299 3015,299 3015,4367 1438,4367" rendition="TextRegion" xml:id="facs_1_r_8">
+            <zone points="1572,504 2124,504 2124,544 1572,544" rendition="Line" xml:id="facs_1_l_588"/>
+            <zone points="1580,545 2339,545 2339,627 1580,627" rendition="Line" xml:id="facs_1_l_604"/>
+            <zone points="1582,636 2329,636 2329,715 1582,715" rendition="Line" xml:id="facs_1_l_626"/>
+            <zone points="1575,719 2435,719 2435,823 1575,823" rendition="Line" xml:id="facs_1_l_648"/>
+            <zone points="1586,848 2240,848 2240,919 1586,919" rendition="Line" xml:id="facs_1_l_664"/>
+            <zone points="1597,925 2532,925 2532,1014 1597,1014" rendition="Line" xml:id="facs_1_l_686"/>
+            <zone points="1594,1023 2612,1023 2612,1108 1594,1108" rendition="Line" xml:id="facs_1_l_715"/>
+            <zone points="1612,1144 2520,1144 2520,1210 1612,1210" rendition="Line" xml:id="facs_1_l_737"/>
+            <zone points="1613,1248 2471,1248 2471,1298 1613,1298" rendition="Line" xml:id="facs_1_l_759"/>
+            <zone points="1611,1354 2486,1354 2486,1396 1611,1396" rendition="Line" xml:id="facs_1_l_781"/>
+            <zone points="1615,1429 2654,1429 2654,1481 1615,1481" rendition="Line" xml:id="facs_1_l_810"/>
+            <zone points="1624,1521 2499,1521 2499,1562 1624,1562" rendition="Line" xml:id="facs_1_l_826"/>
+            <zone points="1629,1614 2480,1614 2480,1647 1629,1647" rendition="Line" xml:id="facs_1_l_848"/>
+            <zone points="1634,1699 2664,1699 2664,1745 1634,1745" rendition="Line" xml:id="facs_1_l_877"/>
+            <zone points="1639,1806 2499,1806 2499,1840 1639,1840" rendition="Line" xml:id="facs_1_l_894"/>
+            <zone points="1629,1895 2426,1895 2426,1933 1629,1933" rendition="Line" xml:id="facs_1_l_910"/>
+            <zone points="1640,1992 2429,1992 2429,2027 1640,2027" rendition="Line" xml:id="facs_1_l_926"/>
+            <zone points="1638,2087 2656,2087 2656,2124 1638,2124" rendition="Line" xml:id="facs_1_l_948"/>
+            <zone points="1629,2198 2724,2198 2724,2244 1629,2244" rendition="Line" xml:id="facs_1_l_977"/>
+            <zone points="1623,2288 2878,2288 2878,2351 1623,2351" rendition="Line" xml:id="facs_1_l_1007"/>
+            <zone points="1603,2397 2504,2397 2504,2465 1603,2465" rendition="Line" xml:id="facs_1_l_1036"/>
+            <zone points="1603,2484 2592,2484 2592,2553 1603,2553" rendition="Line" xml:id="facs_1_l_1073"/>
+            <zone points="1617,2582 2836,2582 2836,2628 1617,2628" rendition="Line" xml:id="facs_1_l_1119"/>
+            <zone points="1601,2680 2661,2680 2661,2736 1601,2736" rendition="Line" xml:id="facs_1_l_1149"/>
+            <zone points="1607,2778 2555,2778 2555,2830 1607,2830" rendition="Line" xml:id="facs_1_l_1171"/>
+            <zone points="1602,2856 2480,2856 2480,2912 1602,2912" rendition="Line" xml:id="facs_1_l_1193"/>
+            <zone points="1606,2942 2465,2942 2465,3002 1606,3002" rendition="Line" xml:id="facs_1_l_1215"/>
+            <zone points="1597,3042 2465,3042 2465,3097 1597,3097" rendition="Line" xml:id="facs_1_l_1237"/>
+            <zone points="1605,3145 2223,3145 2223,3199 1605,3199" rendition="Line" xml:id="facs_1_l_1253"/>
+            <zone points="1599,3246 2569,3246 2569,3299 1599,3299" rendition="Line" xml:id="facs_1_l_1282"/>
+            <zone points="1583,3344 2566,3344 2566,3392 1583,3392" rendition="Line" xml:id="facs_1_l_1311"/>
+            <zone points="1571,3435 2543,3435 2543,3505 1571,3505" rendition="Line" xml:id="facs_1_l_1340"/>
+            <zone points="1571,3546 2525,3546 2525,3599 1571,3599" rendition="Line" xml:id="facs_1_l_1369"/>
+            <zone points="1567,3657 2463,3657 2463,3709 1567,3709" rendition="Line" xml:id="facs_1_l_1398"/>
+            <zone points="1541,3747 2478,3747 2478,3794 1541,3794" rendition="Line" xml:id="facs_1_l_1420"/>
+            <zone points="1533,3844 2414,3844 2414,3900 1533,3900" rendition="Line" xml:id="facs_1_l_1442"/>
+            <zone points="1520,3935 2416,3935 2416,3988 1520,3988" rendition="Line" xml:id="facs_1_l_1458"/>
+            <zone points="1518,4022 2481,4022 2481,4087 1518,4087" rendition="Line" xml:id="facs_1_l_1480"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div><pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <ab facs="#facs_1_r_7" type="">
+               <lb facs="#facs_1_l" n="N001"/>[...] ſo <adjective>dere</adjective>
+               <lb facs="#facs_1_l_22" n="N002"/>[...] wiþ þoute <noun translation="doubt">wene</noun>
+               <lb facs="#facs_1_l_33" n="N003"/>[...] þat <noun translation="maiden">maide</noun> to hiſ <noun translation="queen"><rs type="person" related_to="Floire">quene</rs></noun>·
+               <lb facs="#facs_1_l_49" n="N004"/>[...] hiſ <noun translation="maidens">maideneſ</noun> vp in is <noun translation="tower">tur</noun> ·
+               <lb facs="#facs_1_l_71" n="N005"/>[...] hire wiþ <adjective translation="much">muchel</adjective> <noun translation="honour">honur</noun> ·
+               <lb facs="#facs_1_l_93" n="N006"/>[...] <noun translation="merchants">marchanſ</noun> þis <noun translation="maiden">maide</noun> forlete·
+               <lb facs="#facs_1_l_104" n="N007"/>[...] <noun translation="happy">bliþe</noun> mid here <verb translation="acquire">bẏ ȝete</verb>·
+               <lb facs="#facs_1_l_115" n="N008"/>[...] we <noun translation="Blancheflor"><rs type="person" key=", Blancheflor">blancheflur</rs></noun> be·
+               <lb facs="#facs_1_l_131" n="N009"/>[...] <noun translation="Floire"><rs type="person" key=", Floire">floires</rs></noun> in hiſ <noun translation="country">cūtre</noun>·
+               <lb facs="#facs_1_l_147" n="N010"/>[...] <noun translation="citizen">burgeyſ</noun> toþe <noun translation="king"><rs type="person" key=", Felis" related_to="Floire">king</rs></noun> <verb translation="come">icome</verb>·
+               <lb facs="#facs_1_l_163" n="N011"/>[...] <noun translation="gold">gold</noun> ⁊ þiſſe <noun translation="gift">gariſome</noun>·
+               <lb facs="#facs_1_l_179" n="N012"/>[...] þan <noun translation="king"><rs type="person" key=", Felis" related_to="Floire">king</rs></noun> <verb translation="go">iȝolde</verb>·
+               <lb facs="#facs_1_l_195" n="N013"/>[...] þe <object_of_interest label="Trojan\u0020Cup"><noun translation="cup">cupe</noun> of <noun translation="gold">golde</noun></object_of_interest><noun translation="gold"/>·
+               <lb facs="#facs_1_l_211" n="N014"/>[...] <verb translation="let">let</verb> at one <noun translation="noun">chiriche</noun>·
+               <lb facs="#facs_1_l_227" n="N015"/>[...]urleſ <noun translation="work">wereche</noun>·
+               <lb facs="#facs_1_l_243" n="N016"/>[...]þat anouen·
+               <lb facs="#facs_1_l_259" n="N017"/>[...]e <adjective translation="painted">pointe</adjective> <noun translation="stone">ſtonde</noun>·
+               <lb facs="#facs_1_l_275" n="N018"/>[...]e <verb translation="written">bi write</verb>·
+               <lb facs="#facs_1_l_291" n="N019"/>[...] hele <noun translation="worship">worþſhipe</noun>·
+               <lb facs="#facs_1_l_307" n="N020"/>[...] þe <noun translation="letters">lett̉s</noun> <verb translation="read">rede</verb>·
+               <lb facs="#facs_1_l_20" n="N021"/>[..............................]
+               <lb facs="#facs_1_l_36" n="N022"/>[..............]bla[.............]
+               <lb facs="#facs_1_l_318" n="N023"/>[...]<adverb translation="passionately">par amure</adverb> ·
+               <lb facs="#facs_1_l_334" n="N024"/>[...]<verb translation="has">haueþ</verb> <verb translation="undertake">vndernome</verb>·
+               <lb facs="#facs_1_l_350" n="N025"/>[...] <rs type="place"><noun translation="father"><rs type="person" key=", Felis">fader</rs></noun><noun translation="land">londe</noun></rs><noun translation="land"/> he iſ <verb translation="come">icome</verb>·
+               <lb facs="#facs_1_l_372" n="N026"/>[...]er <noun translation="hall">halle</noun> he is <verb translation="alight">aliȝt</verb>·
+               <lb facs="#facs_1_l_388" n="N027"/>[...]r he <verb translation="greet">grette</verb> <adverb translation="at\u0020once">anonryȝt</adverb>·
+               <lb facs="#facs_1_l_410" n="N028"/>[...] þe <noun translation="queen"><rs type="person" related_to="Floire">quene</rs></noun> he <verb translation="greet">grette</verb> alſo·
+               <lb facs="#facs_1_l_426" n="N029"/>[...] <verb translation="has">haueþ</verb> hiſ <noun translation="greeting">gretīge</noun> <verb translation="done">ido</verb>·
+               <lb facs="#facs_1_l_442" n="N030"/>[...]eþ war þ<hi style="vertical-align: superscript;">t</hi> <noun translation="maiden">maide</noun> <verb translation="been">beo</verb>
+               <lb facs="#facs_1_l_464" n="N031"/>[...]<noun translation="answer">onſwere</noun> nou <verb translation="give">targeþ</verb> heo·
+               <lb facs="#facs_1_l_486" n="N032"/>[...]reſ hit <verb translation="has">haueþ</verb> <verb translation="undertaken">vnder nome</verb>·
+               <lb facs="#facs_1_l_502" n="N033"/>[...]<verb translation="room">boure</verb> ⁊ a iſ <verb translation="come">icome</verb> ·
+               <lb facs="#facs_1_l_518" n="N034"/>[...] to hire <adverb translation="at\u0020once">anōriȝt</adverb>·
+               <lb facs="#facs_1_l_540" n="N035"/>[...]<noun translation="Blancheflor"><rs type="person" key=", Blancheflor">ancheflur</rs></noun> mi <adjective translation="sweet">ſuete</adjective> <noun translation="creature">wiȝt</noun>·
+               <lb facs="#facs_1_l_556" n="N036"/>[...]a ful <adverb translation="certainly">iwis</adverb>·
+               <lb facs="#facs_1_l_572" n="N037"/>[...]war heo is·
+               <lb facs="#facs_1_l_56" n="N038"/>[...................ſing......]
+            </ab>
+            <ab facs="#facs_1_r_8" type="">
+               <lb facs="#facs_1_l_588" n="N001"/>Þine <noun translation="deceit">gabbinge</noun> <verb translation="does">deþ</verb> me <noun translation="distress">wo</noun> ·
+               <lb facs="#facs_1_l_604" n="N002"/><verb translation="tell">Tel</verb> me war my <noun translation="lover">lēmon</noun> <verb translation="been">beo</verb>·
+               <lb facs="#facs_1_l_626" n="N003"/>Al <verb translation="weeping">wepinge</verb> <verb translation="answered">onſuerede</verb> heo·
+               <lb facs="#facs_1_l_648" n="N004"/><noun translation="Sir">Sire</noun> heo <verb translation="said">ſeyde</verb> <adjective translation="dead">ded</adjective>· <adjective translation="dead">ded</adjective> <verb translation="said">quad</verb> he·
+               <lb facs="#facs_1_l_664" n="N005"/><noun translation="Sir">Sire</noun> heo <verb translation="said">ſeyde</verb> <adverb translation="truthfully">for ſoþe</adverb> ȝe·
+               <lb facs="#facs_1_l_686" n="N006"/><interjection translation="alas">Alas</interjection> wenne <verb translation="died">deide</verb> my <adjective translation="sweet">ſuete</adjective> <noun translation="creature">wiȝt</noun>·
+               <lb facs="#facs_1_l_715" n="N007"/><noun translation="Sir">Sire</noun> heo <verb translation="said">ſeyde</verb> wiþinne þiſ ſeueniȝt·
+               <lb facs="#facs_1_l_737" n="N008"/><rs type="place">Þat</rs> vrþe hire waſ leẏd aboue·
+               <lb facs="#facs_1_l_759" n="N009"/>And ded heo is for þine loue·
+               <lb facs="#facs_1_l_781" n="N010"/>Floẏreſ þat waſ ſo fayr ⁊ gēt·
+               <lb facs="#facs_1_l_810" n="N011"/>He fel iſwone vp on þe pauemēt ·
+               <lb facs="#facs_1_l_826" n="N012"/>And þe criſtene wīmon gō to crie ·
+               <lb facs="#facs_1_l_848" n="N013"/>To criſt ⁊ to ſeȳte marie ·
+               <lb facs="#facs_1_l_877" n="N014"/>Þe <noun translation="king"><rs type="person" key=", Felis" related_to="Floire">king</rs></noun> ⁊ þe <noun translation="queen"><rs type="person" related_to="Floire">quene</rs></noun> iherde þ<hi style="vertical-align: superscript;">t</hi> crẏ
+               <lb facs="#facs_1_l_894" n="N015"/>In to þe bure þo vrne hẏ·
+               <lb facs="#facs_1_l_910" n="N016"/>And þe <noun translation="queen"><rs type="person" related_to="Floire">quene</rs></noun> ate frome·
+               <lb facs="#facs_1_l_926" n="N017"/>Bẏ wepeþ hire <adjective>dere</adjective> ſone ·
+               <lb facs="#facs_1_l_948" n="N018"/>⁊ þe kingeſ herte iſ ful of care
+               <lb facs="#facs_1_l_977" n="N019"/>Þat he ſikþ iſ ſone vor loue ſo fare·
+               <lb facs="#facs_1_l_1007" n="N020"/>Anō he of ſwoninge awok ⁊ ſpeke jmiſte
+               <lb facs="#facs_1_l_1036" n="N021"/>Sore he wep ⁊ ſore he ſyȝte ·
+               <lb facs="#facs_1_l_1073" n="N022"/>And on hiſ moder he  byſiþ·
+               <lb facs="#facs_1_l_1119" n="N023"/>Dame he ſaẏde led me þar þ<hi style="vertical-align: superscript;">t</hi> mayde lyþ
+               <lb facs="#facs_1_l_1149" n="N024"/>Þider heo hine broute wel suþe·
+               <lb facs="#facs_1_l_1171" n="N025"/>Vor care  ad ſorwe of hire deþe·
+               <lb facs="#facs_1_l_1193" n="N026"/>Anō þ<hi style="vertical-align: superscript;">t</hi> he to þe burleſ com·
+               <lb facs="#facs_1_l_1215" n="N027"/>Wel ȝerne he bi hul þeron·
+               <lb facs="#facs_1_l_1237" n="N028"/>And lettereſ bigon to <verb translation="read">rede</verb>·
+               <lb facs="#facs_1_l_1253" n="N029"/>Þus ſpek ⁊ þus ſede ·
+               <lb facs="#facs_1_l_1282" n="N030"/>Þat þar laẏ <adjective translation="sweet">ſuete</adjective> <noun translation="Blancheflor"><rs type="person" key=", Blancheflor">blancheflur</rs></noun>
+               <lb facs="#facs_1_l_1311" n="N031"/>Þat floẏreſ louede par amur·
+               <lb facs="#facs_1_l_1340" n="N032"/>Þre [......] ſwouneþ nouþe·
+               <lb facs="#facs_1_l_1369" n="N033"/>Ac aſone aſe he ſpeke miȝte·
+               <lb facs="#facs_1_l_1398" n="N034"/>Sore he wep ⁊ ſore he ſiȝte·
+               <lb facs="#facs_1_l_1420" n="N035"/>And gon <noun translation="Blancheflor"><rs type="person" key=", Blancheflor">blancheflur</rs></noun> bi mene
+               <lb facs="#facs_1_l_1442" n="N036"/>Wit teres riue aſe a ſcur of rene·
+               <lb facs="#facs_1_l_1458" n="N037"/>Bl<noun translation="Blancheflor"><rs type="person" key=", Blancheflor">ancheflur</rs></noun> he ſeide <noun translation="Blancheflor"><rs type="person" key=", Blancheflor">blancheflur</rs></noun>·
+               <lb facs="#facs_1_l_1480" n="N038"/>So ſute þing naſ neu in bur·
+            </ab></div>
+      </body>
+   </text>
+</TEI>

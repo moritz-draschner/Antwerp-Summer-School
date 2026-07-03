@@ -11,7 +11,10 @@ img {
 }
 
 p {
-    text-indent: 10px;
+    text-indent: 50px;
+    line-height: 2;
+    margin-bottom: 0px;
+    margin-top: 0px;
 }
 
 .row {
@@ -25,10 +28,20 @@ p {
 }
 
 .add {
-  color: green;
+  color: white;
+  text-decoration: underline;
+  background-color: #28b116c3;
+  font-style: italic;
 }
 
 .del {
+  color: white;
   text-decoration: line-through;
+  background-color: #ff8181;
 }
 
+.column {
+        float: left;
+        width: 50%;
+        height: 200px;
+        text-align: left}
